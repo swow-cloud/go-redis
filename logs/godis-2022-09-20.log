@@ -1,0 +1,9 @@
+[INFO][server.go:37] 2022/09/20 23:15:30 start listen
+[INFO][server.go:46] 2022/09/20 23:34:30 shutting down
+[INFO][server.go:37] 2022/09/20 23:34:38 start listen
+[INFO][server.go:46] 2022/09/20 23:35:13 shutting down
+[INFO][server.go:37] 2022/09/20 23:36:04 start listen
+[INFO][server.go:57] 2022/09/20 23:36:18 accepted link
+[INFO][server.go:46] 2022/09/20 23:38:00 shutting down
+[INFO][echo.go:57] 2022/09/20 23:38:00 handler shutting down
+[WARN][echo.go:41] 2022/09/20 23:38:00 read tcp 127.0.0.1:6380->127.0.0.1:60086: use of closed network connection

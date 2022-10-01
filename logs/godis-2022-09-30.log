@@ -1,0 +1,60 @@
+[INFO][server.go:37] 2022/09/30 00:12:10 start listen
+[INFO][server.go:57] 2022/09/30 00:13:10 accepted link
+[INFO][server.go:46] 2022/09/30 00:17:06 shutting down
+[INFO][handler.go:88] 2022/09/30 00:17:06 handler shutting down
+[INFO][handler.go:56] 2022/09/30 00:17:06 connection closed: 127.0.0.1:54132
+[INFO][server.go:37] 2022/09/30 23:25:29 start listen
+[INFO][server.go:57] 2022/09/30 23:25:38 accepted link
+[INFO][server.go:46] 2022/09/30 23:27:29 shutting down
+[INFO][handler.go:88] 2022/09/30 23:27:29 handler shutting down
+[INFO][handler.go:56] 2022/09/30 23:27:29 connection closed: 127.0.0.1:61654
+[INFO][server.go:37] 2022/09/30 23:27:34 start listen
+[INFO][server.go:57] 2022/09/30 23:29:03 accepted link
+[INFO][server.go:37] 2022/09/30 23:30:06 start listen
+[INFO][server.go:57] 2022/09/30 23:30:17 accepted link
+[INFO][server.go:37] 2022/09/30 23:30:47 start listen
+[INFO][server.go:57] 2022/09/30 23:31:08 accepted link
+[INFO][server.go:37] 2022/09/30 23:31:48 start listen
+[INFO][server.go:37] 2022/09/30 23:31:53 start listen
+[INFO][server.go:57] 2022/09/30 23:31:58 accepted link
+[ERROR][main.go:42] 2022/09/30 23:32:15 listen tcp 0.0.0.0:6380: bind: address already in use
+[ERROR][main.go:42] 2022/09/30 23:32:29 listen tcp 0.0.0.0:6380: bind: address already in use
+[INFO][server.go:37] 2022/09/30 23:35:30 start listen
+[ERROR][main.go:42] 2022/09/30 23:35:45 listen tcp 0.0.0.0:6380: bind: address already in use
+[INFO][server.go:37] 2022/09/30 23:36:28 start listen
+[INFO][server.go:37] 2022/09/30 23:36:54 start listen
+[ERROR][main.go:42] 2022/09/30 23:37:12 listen tcp 0.0.0.0:6380: bind: address already in use
+[ERROR][main.go:42] 2022/09/30 23:37:44 listen tcp 0.0.0.0:6380: bind: address already in use
+[INFO][server.go:46] 2022/09/30 23:37:49 shutting down
+[INFO][server.go:37] 2022/09/30 23:38:18 start listen
+[INFO][server.go:37] 2022/09/30 23:38:36 start listen
+[INFO][server.go:57] 2022/09/30 23:38:41 accepted link
+[INFO][server.go:37] 2022/09/30 23:40:37 start listen
+[INFO][server.go:37] 2022/09/30 23:40:44 start listen
+[INFO][server.go:37] 2022/09/30 23:42:17 start listen
+[INFO][server.go:57] 2022/09/30 23:42:33 accepted link
+[INFO][server.go:46] 2022/09/30 23:43:07 shutting down
+[INFO][handler.go:88] 2022/09/30 23:43:07 handler shutting down
+[INFO][handler.go:56] 2022/09/30 23:43:07 connection closed: 127.0.0.1:62431
+[INFO][server.go:37] 2022/09/30 23:43:08 start listen
+[INFO][server.go:57] 2022/09/30 23:43:33 accepted link
+[INFO][server.go:37] 2022/09/30 23:44:19 start listen
+[INFO][server.go:57] 2022/09/30 23:44:31 accepted link
+[INFO][server.go:37] 2022/09/30 23:52:31 start listen
+[INFO][server.go:57] 2022/09/30 23:52:54 accepted link
+[INFO][server.go:37] 2022/09/30 23:54:38 start listen
+[INFO][server.go:46] 2022/09/30 23:55:22 shutting down
+[INFO][server.go:37] 2022/09/30 23:55:27 start listen
+[INFO][server.go:46] 2022/09/30 23:56:14 shutting down
+[INFO][server.go:37] 2022/09/30 23:56:16 start listen
+[INFO][server.go:46] 2022/09/30 23:56:19 shutting down
+[INFO][server.go:37] 2022/09/30 23:56:21 start listen
+[INFO][server.go:46] 2022/09/30 23:56:45 shutting down
+[INFO][server.go:37] 2022/09/30 23:56:46 start listen
+[INFO][server.go:46] 2022/09/30 23:58:06 shutting down
+[INFO][server.go:37] 2022/09/30 23:58:08 start listen
+[INFO][server.go:46] 2022/09/30 23:58:24 shutting down
+[INFO][server.go:37] 2022/09/30 23:58:25 start listen
+[INFO][server.go:46] 2022/09/30 23:59:45 shutting down
+[INFO][server.go:37] 2022/09/30 23:59:46 start listen
+[INFO][server.go:46] 2022/10/01 00:08:45 shutting down

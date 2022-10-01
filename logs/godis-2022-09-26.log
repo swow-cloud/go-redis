@@ -1,0 +1,18 @@
+[INFO][server.go:37] 2022/09/26 23:38:02 start listen
+[INFO][server.go:57] 2022/09/26 23:38:53 accepted link
+[ERROR][parser.go:44] 2022/09/26 23:38:59 goroutine 35 [running]:
+runtime/debug.Stack()
+	/usr/local/go/src/runtime/debug/stack.go:24 +0x7c
+go-redis/resp/parser.parse0.func1()
+	/Users/heping/GolangWorkSpace/go-redis/resp/parser/parser.go:44 +0x50
+panic({0x104978480, 0x1400009a060})
+	/usr/local/go/src/runtime/panic.go:1052 +0x2b0
+go-redis/resp/parser.parse0({0x12b9e8008, 0x14000196000}, 0x140001a2000)
+	/Users/heping/GolangWorkSpace/go-redis/resp/parser/parser.go:69 +0xc94
+created by go-redis/resp/parser.ParseStream
+	/Users/heping/GolangWorkSpace/go-redis/resp/parser/parser.go:37 +0x68
+
+[INFO][server.go:37] 2022/09/26 23:41:12 start listen
+[INFO][server.go:37] 2022/09/26 23:43:28 start listen
+[INFO][server.go:57] 2022/09/26 23:43:38 accepted link
+[INFO][handler.go:56] 2022/09/26 23:46:38 connection closed: 127.0.0.1:57360
